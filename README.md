@@ -5,7 +5,7 @@
 - 可定时自动更新课程内容，每日都有新课程。
 - 无企业：做代理，做推广，拿分成
 - 有企业：自己运营网站，独立收益，可招代理和推广，分成自行设置。
-- 你可以通过这个服务器迅速创建自己的知识付费服务器，迅速创业
+- 你可以通过这个服务器迅速创建自己的大语言模型服务器，迅速创业
 - 你可以选择一个ollama上一个比较牛的开源大语言模型做底层配置，伪装成各种大语言的名字，一般用户不会发现，一般人感受不到差异。
 
 <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/1.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/4.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/5.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/6.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/7.png" width="13%" hight="13%"> 
