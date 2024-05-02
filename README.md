@@ -9,7 +9,7 @@
 
 <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/1.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/4.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/5.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/6.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/LargeLanguageModel_Server/blob/main/image/7.png" width="13%" hight="13%"> 
 
-# 企业独立完整版（2980元，不跟系统分成）
+# 企业独立完整版（1500元，不跟系统分成）
 - 必须有注册公司才能用，一次付费终生使用，下载后一键启动服务器。
 - [下载](https://github.com/dhrdzy/LargeLanguageModel_Server/releases/download/1.0.0.1/LargeLanguageModel_Server.zip)
 - 解压后双击打开“大语言模型服务器.exe”进行激活，激活绑定硬件，更换硬件后无法使用。
